@@ -1,0 +1,16 @@
+.left,.middle,.right {
+	text-align: center;
+	margin-top: 200px;
+	padding: 100px;
+}
+
+.left,.right {
+	background-color: gray;
+	height: 300px;
+}
+
+.middle {
+	background: black;
+	color: white;
+	height: 300px;
+}

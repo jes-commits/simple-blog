@@ -1,0 +1,46 @@
+
+#title {
+	font-weight: bold;
+	float: right;
+	font-size: 20px;
+	margin-right: -135px;
+	margin-top: 30px;
+}
+
+input[type="button"] {
+	width: 40px;
+	border: 2px solid orange;
+	border-radius: 30px;
+	height: 40px;
+	color: orange;
+	font-size: 25px;
+	padding-left: 0;
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+#center {
+	text-align: center;
+	font-weight: bold;
+	margin-top: 200px;
+	font-size: 20px;
+
+}
+
+.left {
+	background: gray;
+	height: 200px;
+	text-align: center;
+	margin-top: 100px;
+	padding: 100px;
+}
+
+.right {
+	background: black;
+	height: 200px;
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+	padding: 100px;
+}

@@ -1,0 +1,26 @@
+.col1 {
+    background-color: pink;
+    color: white;
+    height: 80%;
+    margin-top: 150px;
+
+}
+
+.col2 {
+    background-color: blue;
+    color: white;
+    height: 80%;
+    margin-top: 175px;
+}
+
+.left {
+    background-color: gray;
+    color: white;
+    height: 70%;
+}
+
+.right {
+    background-color: orange;
+    color: white;
+    height: 70%;
+}

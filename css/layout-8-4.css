@@ -1,0 +1,23 @@
+.left,.right {
+	margin-top: 200px;
+	height: 100px;
+	text-align: center;
+}
+
+
+.left {
+	width: 99%;
+	background: gray;
+	margin-right: 1%; 
+
+}
+
+.right {
+	background-color: black;
+	color: white;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+}
